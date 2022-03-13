@@ -1,0 +1,11 @@
+version: '3.9'
+
+services:
+  rabbit-1:
+    image: rabbitmq:3.9.3
+
+  rabbit-2:
+    image: rabbitmq:3.9.3
+
+  rabbit-3:
+    image: rabbitmq:3.9.3
