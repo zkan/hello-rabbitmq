@@ -1,2 +1,1 @@
-# hello-rabbitmq
-Hello, RabbitMQ
+# Hello, RabbitMQ
