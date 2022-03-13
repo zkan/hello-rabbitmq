@@ -1,0 +1,2 @@
+# hello-rabbitmq
+Hello, RabbitMQ
